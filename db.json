@@ -1,28 +1,8 @@
 {
   "posts": [
     {
-      "title": "2",
-      "id": 6
-    },
-    {
-      "title": "teste",
-      "id": 12
-    },
-    {
-      "title": "te",
-      "id": 13
-    },
-    {
-      "title": "teste",
-      "id": 14
-    },
-    {
-      "title": "teste",
-      "id": 15
-    },
-    {
-      "title": "hugo",
-      "id": 16
+      "title": "post 1",
+      "id": 1
     }
   ]
 }
